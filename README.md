@@ -38,8 +38,6 @@
 
 ---
 
----
-
 ## 💻 Technical Skills
 
 **Languages & Programming**
@@ -88,12 +86,12 @@
 
 | Certificate | Issuer | Year |
 |------------|--------|------|
-| 🏅 Google AI Professional Certificate | Coursera | 2025 |
-| 🏅 Machine Learning IBM Professional Certificate | Coursera | 2025 |
-| 🏅 Prompt Engineering & AI Applications | DataCamp | 2024 |
-| 🏅 Introduction to Modern AI | Cisco | 2024 |
+| 🏅 Google AI Professional Certificate | Coursera | 2026 |
+| 🏅 Machine Learning IBM Professional Certificate | Coursera | 2026 |
+| 🏅 Prompt Engineering & AI Applications | DataCamp | 2025 |
+| 🏅 Git & Version Control | DataCamp | 2025 |
 | 🏅 Python Programming | Cisco Networking Academy | 2024 |
-| 🏅 Git & Version Control | DataCamp | 2024 |
+
 
 </div>
 
