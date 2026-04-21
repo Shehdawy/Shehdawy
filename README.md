@@ -1,7 +1,7 @@
 # Hi, I'm Omar ElShehdawy 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Enthusiast+%F0%9F%A4%96;Electrical+Communications+%26+Computing+Engineering+Student;Python+%7C+C%2B%2B+%7C+C+Developer+%F0%9F%90%8D;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Student+%F0%9F%A4%96;+Communications+%26+Computing+Engineering;Python+Developer+%F0%9F%90%8D;Always+learning+new+things+%F0%9F%8C%B1" alt="Typing SVG" />
 </div>
 
 <br/>
