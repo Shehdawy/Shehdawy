@@ -38,21 +38,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-```python
-omar = {
-    "name"       : "Omar ElShehdawy",
-    "location"   : "Nasr City, Egypt 📍",
-    "university" : "Nahda University (NUB) — Faculty of Engineering",
-    "degree"     : "B.Sc. Electrical Communications & Computing Engineering",
-    "gpa"        : "3.64 / 4.0  (7th in Year)",
-    "focus"      : ["Machine Learning", "Data Science", "AI Applications"],
-    "languages"  : ["Arabic 🇪🇬 (Native)", "English 🇬🇧 (Fluent)", "Italian 🇮🇹 (Intermediate)"],
-    "currently"  : "Building ML models & exploring AI 🚀"
-}
-```
-
 ---
 
 ## 💻 Technical Skills
@@ -112,17 +97,5 @@ omar = {
 
 </div>
 
----
 
-## 💼 Experience
 
-```
-🏭  IT Trainee          — EZZ Steel          (Aug 2024) — Oracle ERP, SQL, Networking
-📡  CCNA 200-301        — Cisco Academy       (Aug 2024) — VLANs, Routing, Security
-📊  Data Analytics      — MCIT                (Jul 2024) — Power BI, IBM SPSS
-🤖  AI Trainee          — BUE & Impact        (Feb 2024) — PyTorch, TensorFlow, Prompting
-```
-
----
-
-</div>
