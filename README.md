@@ -45,7 +45,7 @@
 **Languages & Programming**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,sql&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,mysql&perline=8" />
 </div>
 
 <br/>
