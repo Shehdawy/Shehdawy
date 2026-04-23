@@ -88,6 +88,7 @@
 |------------|--------|------|
 | 🏅 Google AI Professional Certificate | Coursera | 2026 |
 | 🏅 Machine Learning IBM Professional Certificate | Coursera | 2026 |
+| 🏅 AI & ML Certificate | Sprints | 2025 |
 | 🏅 Prompt Engineering & AI Applications | DataCamp | 2025 |
 | 🏅 Git & Version Control | DataCamp | 2025 |
 | 🏅 Python Programming | Cisco Networking Academy | 2024 |
