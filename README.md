@@ -69,10 +69,6 @@
 <div align="center">
 
 | Project | Description | Tools |
-|--------|-------------|-------|
-| 🎓 **[Student Performance Prediction](https://github.com/Shehdawy)** | Supervised ML model predicting student grades from study habits. KNN + Linear Regression with cross-validation | Python, Scikit-learn, Pandas, Matplotlib |
-| 🏠 **[House Price Prediction](https://github.com/Shehdawy)** | Regression model comparing Linear Regression, Decision Tree & Random Forest. Evaluated with RMSE & R² | Python, Scikit-learn, Pandas, NumPy |
-| ✈️ **[Flight Reservation System](https://github.com/Shehdawy)** | Full desktop app with GUI for managing flight bookings. CRUD operations on SQLite DB | Python, Tkinter, SQLite |
 
 </div>
 
@@ -89,8 +85,6 @@
 | 🏅 Google AI Professional Certificate | Coursera | 2026 |
 | 🏅 Machine Learning IBM Professional Certificate | Coursera | 2026 |
 | 🏅 AI & ML Certificate | Sprints | 2025 |
-| 🏅 Prompt Engineering & AI Applications | DataCamp | 2025 |
-| 🏅 Git & Version Control | DataCamp | 2025 |
 | 🏅 Python Programming | Cisco Networking Academy | 2024 |
 
 
