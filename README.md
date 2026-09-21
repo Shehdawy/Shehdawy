@@ -82,7 +82,6 @@
 
 | Certificate | Issuer | Year |
 |------------|--------|------|
-| 🏅 Google AI Professional Certificate | Coursera | 2026 |
 | 🏅 Machine Learning IBM Professional Certificate | Coursera | 2026 |
 | 🏅 AI & ML Certificate | Sprints | 2025 |
 | 🏅 Python Programming | Cisco Networking Academy | 2024 |
