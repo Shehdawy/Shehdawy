@@ -19,7 +19,7 @@
 ## 🌐 Connect with me
 
 <div align="center">
-  <a href="[https://linkedin.com/in/omar-elshehdawy](https://www.linkedin.com/in/omar-elshehdawy-98a5b2286?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3ByH%2BYt4PpS6GlUwsCh%2BooJw%3D%3D)">
+  <a href="https://www.linkedin.com/in/omar-elshehdawy-98a5b2286/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Shehdawy">
