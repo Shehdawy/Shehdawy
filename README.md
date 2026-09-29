@@ -86,14 +86,15 @@
 
 <div align="center">
 
-| Certificate | Issuer | Year |
-|------------|--------|------|
-| 🏅 Machine Learning IBM Professional Certificate | Coursera | 2026 |
-| 🏅 AI & ML Certificate | Sprints | 2025 |
-| 🏅 Python Programming | Cisco Networking Academy | 2024 |
-
+| Certificate                                           | Issuer    | Year |
+| ----------------------------------------------------- | --------- | ---- |
+| 🏅 Data Science                                       | GCI World | 2026 |
+| 🏅 AI for Business                                    | NTI       | 2026 |
+| 🏅 AI & Machine Learning                              | Sprints   | 2025|
+| 🏅 Data Analysis, Web Development & Business Analysis | MCIT      | 2025 |
 
 </div>
+
 
 
 
