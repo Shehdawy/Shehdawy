@@ -68,11 +68,17 @@
 
 <div align="center">
 
-| Project | Description | Tools |
+| Project                                                    | Description                                                                                                                                                                                 | Tools                                                |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| **[Retailytics](https://github.com/Shehdawy/Retailytics)** | AI-powered retail analytics platform for **sales forecasting, demand prediction, price simulation, and dynamic price recommendations**. Includes a FastAPI backend and Streamlit dashboard. | Python · Scikit-learn · FastAPI · Streamlit · Pandas |
+| **DayCraft**                                               | AI-powered productivity and planning assistant designed to help users organize tasks, build schedules, and manage their daily activities intelligently.                                     | Python · Streamlit · AI · LLMs                       |
+| **AI Aim Adapter**                                         | AI-powered adaptive aim training system that analyzes aiming performance and dynamically adapts training challenges to improve accuracy and reaction time.                                  | Python · Computer Vision · AI · OpenCV               |
+| **RAGMate**                                                | Retrieval-Augmented Generation application that allows users to interact with documents and obtain context-aware answers using document retrieval and LLMs.                                 | Python · RAG · LLMs · Embeddings · Vector Database   |
 
 </div>
 
 ---
+
 
 
 
