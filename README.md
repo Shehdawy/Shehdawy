@@ -88,9 +88,10 @@
 
 | Certificate                                           | Issuer    | Year |
 | ----------------------------------------------------- | --------- | ---- |
+| 🏅 Generative AI                                      |   ITI     | 2026 |
 | 🏅 Data Science                                       | GCI World | 2026 |
 | 🏅 AI for Business                                    | NTI       | 2026 |
-| 🏅 AI & Machine Learning                              | Sprints   | 2025|
+| 🏅 AI & Machine Learning                              | Sprints   | 2025 |
 | 🏅 Data Analysis, Web Development & Business Analysis | MCIT      | 2025 |
 
 </div>
